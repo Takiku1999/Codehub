@@ -1,13 +1,16 @@
 # coding=utf-8
+'''
+此为python2文件，在TOPUI.py中通过dos指令运行
+'''
 import top.api
 import json
 import datetime
 from top.api.base import TopException
 
 url = 'gw.api.taobao.com'
-appkey = '29144250'
-secret = '952c5db99521878b431a542119de3839'
-sessionkey = '6101d25998dffad3c9c8f10bfd62a25561db478478c45d72200678018680'
+appkey = ''
+secret = ''
+sessionkey = ''
 port = 80
 
 try:
