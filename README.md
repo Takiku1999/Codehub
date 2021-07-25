@@ -19,3 +19,6 @@ TOPWriteToCSV.py
 
 TOPAskForJson.py
 通过淘宝开放平台API获取json格式的淘宝商家销售数据
+
+ZHDXSpider.py
+爬取最好大学网的大学排名数据并储存到MongoDB中，同时制成柱状图显示
